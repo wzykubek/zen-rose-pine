@@ -1,0 +1,54 @@
+#zen-main-app-wrapper {
+    background-color: #faf4ed !important;
+}
+
+#appMenu-mainView {
+    background-color: #f2e9e1 !important;
+}
+
+#appmenu-moreTools {
+    background-color: #f2e9e1 !important;
+}
+
+#PanelUI-button {
+    --button-active-bgcolor: black !important;
+}
+
+toolbox#navigator-toolbox {
+    background-color: #faf4ed !important;
+}
+
+#zen-appcontent-navbar-container {
+    background-color: #faf4ed !important;
+}
+
+.menu-text {
+    color: #575279 !important;
+}
+
+.menuitem-iconic {
+    color: #b4637a !important;
+}
+
+:not(:not(menubar) > menu, #ContentSelectDropdown) > menupopup > menuitem:not(.menuitem-iconic, [type="checkbox"], [type="radio"], .in-menulist, .in-menulist menuitem, .unified-nav-current), :not(:not(menubar) > menu, #ContentSelectDropdown) > menupopup > menu:not(.menu-iconic, [type="checkbox"], [type="radio"], .in-menulist, .in-menulist menu, .unified-nav-current), #toggle_toolbar-menubar, #PanelUI-history toolbarbutton, #unified-extensions-context-menu menuitem {
+    fill: #575279 !important;
+}
+
+html#main-window {
+    --lwt-text-color: #575279 !important;
+    --toolbarbutton-icon-fill: #b4637a !important;
+    --toolbar-field-color: #286983 !important;
+    --toolbar-field-focus-color: #286983 !important;
+    --toolbar-field-background-color: #fffaf3 !important;
+    --toolbar-field-focus-background-color: #fffaf3 !important;
+    
+    --zen-colors-primary: #d7827e !important;
+    --zen-colors-secondary: #f2e9e1 !important;
+    --zen-colors-tertiary: #faf4ed !important;
+    --zen-colors-border: #faf4ed !important;
+    --zen-dialog-background: #f2e9e1 !important;
+    
+    
+    
+    --arrowpanel-color: #575279 !important;
+}
