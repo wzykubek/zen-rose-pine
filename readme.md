@@ -13,7 +13,7 @@
 
 ## Usage
 
-- Copy or create link from `dist/userChrome.css` to `chrome` in your's Zen Browser's profile directory.
+- Copy or create link from `dist/<variant>/userChrome.css` to `chrome` in your's Zen Browser's profile directory.
 
 ## Gallery
 
