@@ -17,7 +17,7 @@
 
 ## Gallery
 
-![Rosé Pine with Zen Browser](/assets/main-screenshot.png)
+![Rosé Pine with Zen Browser](https://github.com/user-attachments/assets/61b03d3b-7c0a-4a6a-914a-fc34d825ca5b)
 
 ## Thanks to
 
